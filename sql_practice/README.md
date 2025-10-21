@@ -1,4 +1,4 @@
-# portfolio-analytics
+# Portfolio-analytics
 
 Analytics portfolio: SQL queries, dashboards, and 1-page case studies.
 
